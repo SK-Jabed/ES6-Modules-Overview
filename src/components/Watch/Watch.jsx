@@ -1,5 +1,3 @@
-import React from 'react';
-
 const Watch = ({watch}) => {
     const {name, price} = watch;
     return (

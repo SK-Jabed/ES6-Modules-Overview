@@ -1,5 +1,3 @@
-import React from 'react';
-
 import "./Sunglass.css"
 import Watch from '../Watch/Watch';
 import { add, multiply } from '../../Utilities/calculate';
