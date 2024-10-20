@@ -13,13 +13,11 @@ function App() {
 ];
 
   return (
-    <>
-      
+    <>     
       <h2>Vite + React</h2>
       {
         watches.map(watch => <Watch key={watch.id} watch={watch}></Watch>)
-      }
-      
+      }     
     </>
   )
 }
