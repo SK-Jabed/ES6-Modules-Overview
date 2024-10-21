@@ -1,0 +1,27 @@
+[
+    {
+        "id": 101,
+        "name": "Apple Watch SE",
+        "price": 279.99
+    },
+    {
+        "id": 102,
+        "name": "Samsung Galaxy Watch Active 2",
+        "price": 199.99
+    },
+    {
+        "id": 103,
+        "name": "Fitbit Sense",
+        "price": 299.95
+    },
+    {
+        "id": 104,
+        "name": "Garmin Forerunner 245",
+        "price": 299.99
+    },
+    {
+        "id": 105,
+        "name": "Huawei Watch GT 3",
+        "price": 229.99
+    }
+]
